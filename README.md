@@ -1,5 +1,5 @@
 # AdaptNXT_ReactJS_Assessment
-A Sample Assesement built using React JS
+An AdaptNXT assessment built using React JS for the Interview process
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
