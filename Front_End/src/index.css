@@ -41,6 +41,7 @@ img {
 .main{
   margin-left: 250px;
   margin-top: 30px;
+  margin-right: 20px;
 }
 
 button .order{
@@ -58,4 +59,14 @@ table.dataTable thead .sorting_desc:before,
 table.dataTable thead .sorting_desc_disabled:after,
 table.dataTable thead .sorting_desc_disabled:before {
   bottom: .5em;
+}
+
+.box{
+  width: 1024px;
+  height: 325px;
+  background: white;
+}
+
+.btn-page{
+  margin-left: 700px;
 }
