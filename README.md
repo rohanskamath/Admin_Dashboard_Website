@@ -1,5 +1,5 @@
-# AdaptNXT_ReactJS_Assessment
-An AdaptNXT assessment built using React JS for the Interview process
+# Admin Dashboard Website
+Build a Simple interface for the Admin Dashboard using React JS
 
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
